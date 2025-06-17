@@ -132,8 +132,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or suggestions, feel free to reach out:
 
-- 📧 Email: support@dtmtest.uz
-- 🌐 Website: [dtmtest.uz](https://dtmtest.uz)
+- 📞 Call: 1195
+- 🌐 Website: [uzbmb.uz](https://uzbmb.uz/)
 - 📱 Google Play: [DTM Test App](https://play.google.com/store/apps/details?id=uz.dtm.dtm_test_app)
 
 ---
